@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Everybody has darkness in them but _YOU SEE_ **JUST HOW MUCH THEY LET OUT**.
+
+Things that doesn't kill _ME_ **MAKES ME STROGER**.        
