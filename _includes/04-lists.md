@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Workouts:running:
+* Coding:computer:
+* Reading:book:
+   * Solo Leveling 
+   * My Vampire System:vampire:
